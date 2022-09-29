@@ -1,10 +1,13 @@
-#Анализ популярности языков программирования 
-
+# Анализ популярности языков программирования
 ---
 Небольшой анализ популярности языков программирования на основе CV людей,
 которые хотят найти работу заграницей
 
+![image](https://user-images.githubusercontent.com/56071777/192913986-f18bf1fd-625b-4f8e-b643-e6f87593d85f.png)
+
+
 ---
-CV взяты из канала "IT Evacuation / DIXY" https://t.me/joinchat/AAAAAE3nUawZ4YX6AtDCFg
-Всего участвовало **368** резюме
+CV взяты из канала ["IT Evacuation / DIXY"](https://t.me/joinchat/AAAAAE3nUawZ4YX6AtDCFg)
+
+Всего участвовало ***368*** резюме
 
